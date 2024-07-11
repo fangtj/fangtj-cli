@@ -1,6 +1,6 @@
 {
   "name": "@fangtj-cli/core",
-  "version": "1.0.0",
+  "version": "1.0.5",
   "description": "> TODO: description",
   "author": "",
   "homepage": "",
@@ -17,7 +17,7 @@
     "lib"
   ],
   "publishConfig": {
-    "access":"public"
+    "access": "public"
   },
   "scripts": {
     "dev": "node ./lib/index.js",
