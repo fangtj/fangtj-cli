@@ -1,6 +1,6 @@
 {
   "name": "@fangtj-cli/core",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "> TODO: description",
   "author": "",
   "homepage": "",
@@ -24,7 +24,7 @@
     "test": "node ./__tests__/core.test.js"
   },
   "dependencies": {
-    "@fangtj-cli/utils": "^0.0.1"
+    "@fangtj-cli/utils": "^0.0.2"
   },
   "gitHead": "29b8a24f0e93a02b5d08bb7f4234678d46f7c444"
 }
