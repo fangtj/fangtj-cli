@@ -9,6 +9,9 @@
   "bin": {
     "fangtj-cli": ""
   },
+  "publishConfig": {
+    "access":"public"
+  },
   "keywords": [],
   "author": "",
   "license": "ISC",
