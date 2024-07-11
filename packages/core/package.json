@@ -10,6 +10,9 @@
     "lib": "lib",
     "test": "__tests__"
   },
+  "bin": {
+    "fangtj-cli": "bin/index.js"
+  },
   "files": [
     "lib"
   ],
@@ -22,5 +25,6 @@
   },
   "dependencies": {
     "@fangtj-cli/utils": "^0.0.1"
-  }
+  },
+  "gitHead": "29b8a24f0e93a02b5d08bb7f4234678d46f7c444"
 }
