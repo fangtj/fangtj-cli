@@ -1,0 +1,15 @@
+42 error Error: Command failed with exit code 1: npm install --package-lock-only --ignore-scripts
+42 error npm ERR! code E404
+42 error npm ERR! 404 Not Found - GET https://registry.npmjs.org/@fangtj-cli%2futils - Not found
+42 error npm ERR! 404
+42 error npm ERR! 404  '@fangtj-cli/utils@^0.0.2' is not in this registry.
+42 error npm ERR! 404
+42 error npm ERR! 404 Note that you can also install from a
+42 error npm ERR! 404 tarball, folder, http url, or git url.
+42 error
+42 error npm ERR! A complete log of this run can be found in: C:\Users\fangtj\AppData\Local\npm-cache\_logs\2024-07-11T14_57_21_195Z-debug-0.log
+42 error     at makeError (C:\Users\fangtj\AppData\Roaming\npm\node_modules\lerna\node_modules\execa\lib\error.js:59:11)
+42 error     at handlePromise (C:\Users\fangtj\AppData\Roaming\npm\node_modules\lerna\node_modules\execa\index.js:114:26)
+42 error     at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+42 error     at async VersionCommand.updatePackageVersions (C:\Users\fangtj\AppData\Roaming\npm\node_modules\lerna\dist\index.js:9869:13)
+42 error     at async Promise.all (index 0)
